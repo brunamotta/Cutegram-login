@@ -6,8 +6,8 @@ No fim é sugerido que os alunos personalizem o projeto como desejarem e eu fiz 
 
 Sei que ainda tem algumas melhorias que podem ser feitas, a pagina original do instagram consegue manter as coisas mais ao centro e a minha versão ainda se extende demais pela tela, estou estudando como resolver isso e aceito sugestões, mas quis compatilhar esse projeto mesmo assim.
 
-Espero que gostem :)
+Voê pode visualizar o resultado *[clicando aqui](https://brunamotta.github.io/Cutegram-login/)*.
 
-Link para o bootcamp [*aqui*](https://web.dio.me/track/html-web-developer).
+Espero que gostem :)
 
 *Sugestões, dicas e críticas construtivas são sempre bem-vindas!* :wink:
