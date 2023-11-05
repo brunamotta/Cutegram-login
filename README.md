@@ -6,7 +6,7 @@ No fim é sugerido que os alunos personalizem o projeto como desejarem e eu fiz 
 
 Sei que ainda tem algumas melhorias que podem ser feitas, a pagina original do instagram consegue manter as coisas mais ao centro e a minha versão ainda se extende demais pela tela, estou estudando como resolver isso e aceito sugestões, mas quis compatilhar esse projeto mesmo assim.
 
-Voê pode visualizar o resultado *[clicando aqui](https://brunamotta.github.io/Cutegram-login/)*.
+Você pode visualizar o resultado *[clicando aqui](https://brunamotta.github.io/Cutegram-login/)*.
 
 Espero que gostem :)
 
